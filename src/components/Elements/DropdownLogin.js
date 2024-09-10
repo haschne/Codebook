@@ -18,7 +18,7 @@ export const DropdownLogin = ({setDropdown}) => {
             }           
         }   
         fetchData();
-    }, [])
+    }, []) //esling-disable-line
 
     function handleLogout(){
         logout();
