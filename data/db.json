@@ -1,0 +1,222 @@
+{
+  "products": [
+    {
+      "id": "10001",
+      "name": "Plush Dog Bed",
+      "overview": "Comfortable and cozy dog bed.",
+      "long_description": "A luxurious plush dog bed made from high-quality materials to provide ultimate comfort for your pet. Available in multiple sizes and colors to match your home decor.",
+      "price": 39.99,
+      "poster": "PlushDogBed.png",
+      "image_local": "/assets/images/PlushDogBed.png",
+      "rating": 4.7,
+      "in_stock": true,
+      "size": "Medium",
+      "best_seller": true
+    },
+    {
+      "id": "10002",
+      "name": "Cat Scratching Post",
+      "overview": "Durable scratching post for cats.",
+      "long_description": "This sturdy cat scratching post is made from natural sisal and is perfect for keeping your cat's claws healthy and your furniture safe. Comes with a dangling toy to encourage play.",
+      "price": 24.99,
+      "poster": "CatScratchingPost.png",
+      "image_local": "/assets/images/CatScratchingPost.png",
+      "rating": 3,
+      "in_stock": true,
+      "size": "Large",
+      "best_seller": false
+    },
+    {
+      "id": "10003",
+      "name": "Interactive Dog Toy",
+      "overview": "Fun and engaging toy for dogs.",
+      "long_description": "This interactive toy is designed to keep your dog entertained for hours. Made from durable rubber, it's great for chewing, fetching, and playing tug-of-war.",
+      "price": 14.99,
+      "poster": "InteractiveDogToy.png",
+      "image_local": "/assets/images/InteractiveDogToy.png",
+      "rating": 4.8,
+      "in_stock": false,
+      "size": "Small",
+      "best_seller": true
+    },
+    {
+      "id": "10004",
+      "name": "Woven Mouse Cat Toy",
+      "overview": "Fun, durable, and eco-friendly cat toy.",
+      "long_description": "This woven mouse toy engages your cat’s natural hunting instincts with its soft, textured design. Perfect for solo or interactive play, it keeps your cat entertained and active.",
+      "price": 9.99,
+      "poster": "WovenCatToy.png",
+      "image_local": "/images/assets/WovenCatToy.png",
+      "rating": 4.6,
+      "in_stock": true,
+      "size": "Small",
+      "best_seller": false
+    },
+    {
+      "id": "10005",
+      "name": "Pet Grooming Kit",
+      "overview": "Complete grooming kit for pets.",
+      "long_description": "This all-in-one pet grooming kit includes a brush, comb, nail clippers, and grooming gloves. Designed to keep your pet's coat healthy and shiny.",
+      "price": 29.99,
+      "poster": "PetGroomingKit.png",
+      "image_local": "/images/assets/PetGroomingKit.png",
+      "rating": 1.9,
+      "in_stock": true,
+      "size": "One Size",
+      "best_seller": true
+    },
+    {
+      "id": "10006",
+      "name": "Automatic Pet Feeder",
+      "overview": "Smart feeder with timer.",
+      "long_description": "An automatic pet feeder with a built-in timer to schedule meals. Suitable for both dogs and cats, it holds up to 2 liters of food and dispenses portions at preset times.",
+      "price": 79.99,
+      "poster": "AutomaticPetFeeder.png",
+      "image_local": "/images/assets/AutomaticPetFeeder.png",
+      "rating": 4.4,
+      "in_stock": true,
+      "size": "Medium",
+      "best_seller": false
+    },
+    {
+      "id": "10007",
+      "name": "Dog Chew Toy Bone",
+      "overview": "Durable bone-shaped chew toy.",
+      "long_description": "This bone-shaped chew toy is made from natural rubber, perfect for teething puppies and aggressive chewers. Helps clean teeth and massage gums.",
+      "price": 12.99,
+      "poster": "DogChewToyBone.png",
+      "image_local": "/images/assets/DogChewToyBone.png",
+      "rating": 4,
+      "in_stock": false,
+      "size": "Large",
+      "best_seller": false
+    },
+    {
+      "id": "10008",
+      "name": "Cat Tunnel Toy",
+      "overview": "Collapsible tunnel for cats.",
+      "long_description": "This collapsible tunnel toy provides hours of fun for cats. Made from durable fabric, it's easy to set up and store away. Includes a dangling ball for added entertainment.",
+      "price": 19.99,
+      "poster": "CatTunnelToy.png",
+      "image_local": "/images/assets/CatTunnelToy.png",
+      "rating": 4.7,
+      "in_stock": true,
+      "size": "Medium",
+      "best_seller": true
+    }
+  ],
+  "featured_products": [
+    {
+      "id": "10004",
+      "name": "Woven Mouse Cat Toy",
+      "overview": "Fun, durable, and eco-friendly cat toy.",
+      "long_description": "This woven mouse toy engages your cat’s natural hunting instincts with its soft, textured design. Perfect for solo or interactive play, it keeps your cat entertained and active.",
+      "price": 9.99,
+      "poster": "WovenCatToy.png",
+      "image_local": "/images/assets/WovenCatToy.png",
+      "rating": 4.6,
+      "in_stock": true,
+      "size": "Small",
+      "best_seller": false
+    },
+    {
+      "id": "10007",
+      "name": "Dog Chew Toy Bone",
+      "overview": "Durable bone-shaped chew toy.",
+      "long_description": "This bone-shaped chew toy is made from natural rubber, perfect for teething puppies and aggressive chewers. Helps clean teeth and massage gums.",
+      "price": 12.99,
+      "poster": "DogChewToyBone.png",
+      "image_local": "/images/assets/DogChewToyBone.png",
+      "rating": 4,
+      "in_stock": false,
+      "size": "Large",
+      "best_seller": false
+    },
+    {
+      "id": "10008",
+      "name": "Cat Tunnel Toy",
+      "overview": "Collapsible tunnel for cats.",
+      "long_description": "This collapsible tunnel toy provides hours of fun for cats. Made from durable fabric, it's easy to set up and store away. Includes a dangling ball for added entertainment.",
+      "price": 19.99,
+      "poster": "CatTunnelToy.png",
+      "image_local": "/images/assets/CatTunnelToy.png",
+      "rating": 4.7,
+      "in_stock": true,
+      "size": "Medium",
+      "best_seller": true
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": "10001",
+          "name": "Plush Dog Bed",
+          "overview": "Comfortable and cozy dog bed.",
+          "long_description": "A luxurious plush dog bed made from high-quality materials to provide ultimate comfort for your pet. Available in multiple sizes and colors to match your home decor.",
+          "price": 39.99,
+          "poster": "PlushDogBed.png",
+          "image_local": "/assets/images/PlushDogBed.png",
+          "rating": 4.7,
+          "in_stock": true,
+          "size": "Medium",
+          "best_seller": true
+        },
+        {
+          "id": "10006",
+          "name": "Automatic Pet Feeder",
+          "overview": "Smart feeder with timer.",
+          "long_description": "An automatic pet feeder with a built-in timer to schedule meals. Suitable for both dogs and cats, it holds up to 2 liters of food and dispenses portions at preset times.",
+          "price": 79.99,
+          "poster": "AutomaticPetFeeder.png",
+          "image_local": "/images/assets/AutomaticPetFeeder.png",
+          "rating": 4.4,
+          "in_stock": true,
+          "size": "Medium",
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 119.97999999999999,
+      "quantity": 2,
+      "user": {
+        "name": "Max Mustermann",
+        "email": "mamu@example.com",
+        "id": 1
+      },
+      "id": 1
+    },
+    {
+      "cartList": [
+        {
+          "id": "10001",
+          "name": "Plush Dog Bed",
+          "overview": "Comfortable and cozy dog bed.",
+          "long_description": "A luxurious plush dog bed made from high-quality materials to provide ultimate comfort for your pet. Available in multiple sizes and colors to match your home decor.",
+          "price": 39.99,
+          "poster": "PlushDogBed.png",
+          "image_local": "/assets/images/PlushDogBed.png",
+          "rating": 4.7,
+          "in_stock": true,
+          "size": "Medium",
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 39.99,
+      "quantity": 1,
+      "user": {
+        "name": "Max Mustermann",
+        "email": "mamu@example.com",
+        "id": 1
+      },
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "mamu@example.com",
+      "password": "$2a$10$JUAZcufWN5/YRP6Y6Kl1X.3nri2eKf2shub1ZxxfglrcLGENQws/G",
+      "name": "Max Mustermann",
+      "id": 1
+    }
+  ]
+}
