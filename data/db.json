@@ -184,31 +184,6 @@
         "id": 1
       },
       "id": 1
-    },
-    {
-      "cartList": [
-        {
-          "id": "10001",
-          "name": "Plush Dog Bed",
-          "overview": "Comfortable and cozy dog bed.",
-          "long_description": "A luxurious plush dog bed made from high-quality materials to provide ultimate comfort for your pet. Available in multiple sizes and colors to match your home decor.",
-          "price": 39.99,
-          "poster": "PlushDogBed.png",
-          "image_local": "/assets/images/PlushDogBed.png",
-          "rating": 4.7,
-          "in_stock": true,
-          "size": "Medium",
-          "best_seller": true
-        }
-      ],
-      "amount_paid": 39.99,
-      "quantity": 1,
-      "user": {
-        "name": "Max Mustermann",
-        "email": "mamu@example.com",
-        "id": 1
-      },
-      "id": 2
     }
   ],
   "users": [
